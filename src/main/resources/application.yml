@@ -1,0 +1,9 @@
+#spring:
+ # application:
+  #  name: spring-boot-ecommerce
+
+#server:
+ # port: 8443
+
+#logging:
+ # file: C:\Users\USER\Desktop\logs\elk-stack.log
